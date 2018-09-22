@@ -1,5 +1,6 @@
 # CMSC422 - Project 2 - Clustering
----
+
+**Due: Oct 15 **
 
 In this project, we will work with PCA and K-Means.
 
@@ -8,3 +9,7 @@ and fill in the missing implementations.
 
 Please do not edit function names or parameters as your code will be tested
 using a test harness.
+
+## Submission instructions
+
+*Coming soon...*
