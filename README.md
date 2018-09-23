@@ -12,4 +12,4 @@ using a test harness.
 
 ## Submission instructions
 
-*Coming soon...*
+On course website.
