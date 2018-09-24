@@ -1,6 +1,6 @@
 # CMSC422 - Project 2 - Clustering
 
-**Due: Oct 15 **
+**Due: Oct 15**
 
 In this project, we will work with PCA and K-Means.
 
@@ -12,4 +12,4 @@ using a test harness.
 
 ## Submission instructions
 
-*Coming soon...*
+On course website.
