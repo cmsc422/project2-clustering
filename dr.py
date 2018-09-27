@@ -1,6 +1,5 @@
 from numpy import *
 from util import *
-from pylab import *
 import util
 
 def pca(X, K):
@@ -34,7 +33,7 @@ def pca(X, K):
     util.raiseNotDefined()
 
     # next, compute eigenvalues of the data variance
-    #    hint 1: look at 'help(pylab.eig)'
+    #    hint 1: look at 'help(np.linalg.eig)'
     #    hint 2: you'll want to get rid of the imaginary portion of the eigenvalues; use: real(evals), real(evecs)
     #    hint 3: be sure to sort the eigen(vectors,values) by the eigenvalues: see 'argsort', and be sure to sort in the right direction!
     #             
